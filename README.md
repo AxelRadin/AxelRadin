@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏿
 
 - 🔭 I’m currently working on configuration of Virtual Machine on Unix and Linux 
 - 🌱 I’m currently learning React.js
